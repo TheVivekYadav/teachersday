@@ -8,7 +8,7 @@ function circle(){
         let delay = Math.random() * -20;
         let duration = Math.random() * 10;
 
-        let size = Math.random() * 250;
+        let size = Math.random() * 100;
         element.style.width = size + 10 + 'px';
         element.style.height = size + 10 + 'px';
         element.style.left = posX + 'px';
